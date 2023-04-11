@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "lib": ["ESNext"],
+        "moduleResolution": "node",
+        "module": "CommonJS",
+        "target": "ESNext",
+        "sourceMap": true,
+        "forceConsistentCasingInFileNames": true,
+        "strict": true
+    },
+    "include": ["api"]
+}
